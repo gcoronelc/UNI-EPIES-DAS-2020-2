@@ -1,4 +1,4 @@
-![UNI-EPIES DAS 2020-1](https://raw.githubusercontent.com/gcoronelc/UNI-EPIES-ADS-2020-1/master/img/CURSO.JPG)
+![UNI-EPIES DAS 2020-2](https://raw.githubusercontent.com/gcoronelc/UNI-EPIES-DAS-2020-2/main/img/CURSO.JPG)
 
 
 # UNI-EPIES ADS
