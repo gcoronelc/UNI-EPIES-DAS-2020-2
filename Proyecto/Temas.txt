@@ -1,7 +1,7 @@
 LISTA DE TEMAS
-------------------------------------------------
-- Gestión financiera de un colegio particular
-- Gestión academica
+------------------------------------------------------------------
+- Gestión financiera de un colegio particular / instituto / etc.
+- Gestión academica de un colegio / instituto / etc.
 - Gestión de un condominio
 - Gestión de mercados de las zonas donde vives
 - Sistema de ventas - Empresa
@@ -9,4 +9,4 @@ LISTA DE TEMAS
 - Sistema de Importación
 - RRHH
 - Sistema de Asistencia
-
+- Etc.
