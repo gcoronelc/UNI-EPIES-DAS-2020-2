@@ -8,6 +8,8 @@
 - Horario 2: VIE de 3 a 6 pm
 - Inicio: 09.NOVIEMBRE.2020
 - Aula virtual: https://www.virtualfieecs.pe/
+- Delegado: JHERZON XAVIER GRANDEZ HILARION
+- Subdelegado: ALYTZA THALÍA CANO RODRIGUEZ
 
 
 # DOCENTE
