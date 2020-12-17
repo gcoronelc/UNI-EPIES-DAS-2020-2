@@ -1,0 +1,4 @@
+PREGUNTA 2
+---------------------------
+Hombres: Cantidad de productos
+Mujeres: Cantidad de pedidos
