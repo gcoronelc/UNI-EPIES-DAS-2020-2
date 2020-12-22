@@ -1,0 +1,5 @@
+1.- Enunciado/Problema
+2.-	Requerimientos
+3.-	Análisis de 2 requerimientos
+4.-	Modelo de base de datos para loa 2 requerimientos
+5.-	Prototipos del sistema para los 2 requerimientos
