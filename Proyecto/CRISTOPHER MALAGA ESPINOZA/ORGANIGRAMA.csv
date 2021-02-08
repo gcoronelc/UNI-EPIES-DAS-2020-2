@@ -1,0 +1,85 @@
+﻿IDAREA;DEP_OFI_COD;DEP_OFI_DESC;SERV_UNI_COD;SERV_UNI_DESC
+01;01;Departamento De Medicina Interna;0100;Departamento De Medicina
+02;01;Departamento De Medicina Interna;0101;Servicio De Medicina Interna I, Ii, Iv
+03;01;Departamento De Medicina Interna;0102;Servicio De Medicina Interna Iii
+04;01;Direccion General;0101;Direccion General
+05;01;Oficina De Administracion;0100;Oficina De Administracion
+06;01;Oficina De Administracion;0101;Unidad De Personal
+07;01;Oficina De Administracion;0102;Unidad De Contabilidad Y Finanzas
+08;01;Oficina De Administracion;0103;Unidad De Logistica
+09;01;Oficina De Administracion;0104;Unidad  De Servicios Generales Y Mantenimiento
+10;01;Oficina De Planeamiento Estrategico;0101;Oficina De Planeamiento Estrategico
+11;01;Organo De Control Institucional;0101;Organo De Control Institucional
+12;02;Departamento De Especialidades Médicas;0200;Departamento De Especialidades Médicas
+13;02;Departamento De Especialidades Médicas;0201;Servicio De Gastroenterología
+14;02;Departamento De Especialidades Médicas;0202;Servicio De Cardiología
+15;02;Departamento De Especialidades Médicas;0203;Servicio De Nefrología
+16;02;Departamento De Especialidades Médicas;0204;Servicio De Enfermedades Infecciosas Y Tropicales
+17;02;Departamento De Especialidades Médicas;0205;Servicio De Dermatología
+18;02;Departamento De Especialidades Médicas;0206;Servicio De Endocrinología
+19;02;Departamento De Especialidades Médicas;0207;Servicio De Medicina Sub Especialidades
+20;02;Oficina  De Comunicaciones;0201;Oficina  De Comunicaciones
+21;02;Oficina De Asesoria Juridica;0201;Oficina De Asesoria Juridica
+22;03;Departamento De Cirugia Toracica Y Cardiovascular;0300;Departamento De Cirugia De Toracica  Y Cardiovascular
+23;03;Departamento De Cirugia Toracica Y Cardiovascular;0301;Servicio De Cirugía Torácica, Servicio De Cirugía Cardiovascular Y Servicio De Broncoscopia Y Procedimientos Torácicos
+24;03;Oficina De Epidemiologia Y Salud Ambiental;0301;Oficina De Epidemiologia Y Salud Ambiental
+25;03;Oficina De Estadistica E Informatica;0301;Oficina De Estadistica E Informatica
+26;04;Departamento De Cirugia;0400;Departamento De Cirugia
+27;04;Departamento De Cirugia;0401;Servicio De Cirugia General Y Digestiva A/B
+28;04;Departamento De Cirugia;0402;Servicio De Cirugía Pediátrica
+29;04;Oficina De Apoyo A La Docencia E Investigacion;0401;Oficina De Apoyo A La Docencia E Investigacion
+30;04;Oficina De Gestion De La Calidad;0401;Oficina De Gestion De La Calidad
+31;05;Departamento De Especialidades Quirurgicas;0500;Departamento De Especialidades Quirurgicas
+32;05;Departamento De Especialidades Quirurgicas;0501;Servicio De Otorrinolaringología
+33;05;Departamento De Especialidades Quirurgicas;0502;Servicio De Oftalmología
+34;05;Departamento De Especialidades Quirurgicas;0503;Servicio De Urología
+35;05;Departamento De Especialidades Quirurgicas;0504;Servicio De Traumatología Y Ortopedia
+36;05;Departamento De Especialidades Quirurgicas;0505;Servicio De Neurocirugía
+37;05;Departamento De Especialidades Quirurgicas;0506;Servicio De Cirugía De Cabeza Y Cuello Y Maxilo Facial
+38;05;Departamento De Especialidades Quirurgicas;0507;Servicio De Cirugía Plástica Y Quemados
+39;05;Oficina De Seguros;0501;Oficina De Seguros
+40;06;Departamento De Cirugia Toracica Y Cardiovascular;0601;Servicio De Cirugía Torácica, Servicio De Cirugía Cardiovascular Y Servicio De Broncoscopia Y Procedimientos Torácicos
+41;06;Departamento De Neumologia;0600;Departamento De Neumologia
+42;06;Departamento De Neumologia;0601;Servicio De Enfermedades Respiratorias Tuberculosas
+43;06;Departamento De Neumologia;0602;Servicio De Enfermedades Respiratorias No Tuberculosas
+44;07;Departamento De Pediatria;0700;Departamento De Pediatria
+45;07;Departamento De Pediatria;0701;Servicio De Pediatria
+46;07;Departamento De Pediatria;0702;Servicio De Neonatología
+47;08;Departamento De Gineco Obstetricia;0800;Departamento De Gineco Obstetricia
+48;08;Departamento De Gineco Obstetricia;0801;Servicio De Ginecología
+49;08;Departamento De Gineco Obstetricia;0802;Servicio De Obstetricia Médico Quirúrgico
+50;08;Departamento De Gineco Obstetricia;0803;Servicio De Obstetricia
+51;08;Departamento De Gineco Obstetricia;0804;Servicio De Reproducción Humana
+52;09;Departamento De Emergencia Y Cuidados Criticos;0900;Departamento De Emergencia Y Cuidados Criticos
+53;09;Departamento De Emergencia Y Cuidados Criticos;0901;Servicio De Emergencia/Trauma Shock
+54;09;Departamento De Emergencia Y Cuidados Criticos;0902;Servicio De Cuidados Intensivos
+55;09;Departamento De Emergencia Y Cuidados Criticos;0903;Servicio De Cuidados Intensivos Y Cuidados Intermedios Neonatales
+56;09;Departamento De Emergencia Y Cuidados Criticos;0904;Servicio De Cuidados Intensivos Pediátricos
+57;10;Departamento De Odontoestomatologia;1000;Departamento De Odontoestomatologia
+58;10;Departamento De Odontoestomatologia;1001;Servicio De Odontoestomatología Clínica
+59;10;Departamento De Odontoestomatologia;1002;Servicio De Cirugía Bucal Y Maxilo Facial
+60;11;Departamento De Anestesiología Y Centro Quirúrgico;1100;Departamento Anestesiología Y Centro Quirúrgico
+61;11;Departamento De Anestesiología Y Centro Quirúrgico;1101;Servicio De Anestesiologia Y Cq/Terapia Del Dolor /Servicio De Cirugía Ambulatoria
+62;11;Departamento De Anestesiología Y Centro Quirúrgico;1102;Servicio De Anestesiología Y Centro Quirúrgico/Recuperación Post Anestésica Y Reanimación
+63;12;Departamento De Patologia Clinica Y Anatomia Patologica;1200;Departamento De Patologia Clinica Y Anatomia Patologica
+64;12;Departamento De Patologia Clinica Y Anatomia Patologica;1201;Servicio De Bioquímica Y Hematología
+65;12;Departamento De Patologia Clinica Y Anatomia Patologica;1202;Servicio De Hemoterapia Y Banco De Sangre
+66;12;Departamento De Patologia Clinica Y Anatomia Patologica;1203;Servicio De Microbiología, Inmunología Y Biología Molecular
+67;12;Departamento De Patologia Clinica Y Anatomia Patologica;1204;Servicio De Anatomía Patológica
+68;13;Departamento De Diagnostico Por Imagenes;1300;Departamento De Diagnostico Por Imágenes
+69;13;Departamento De Diagnostico Por Imagenes;1301;Servicio De Radiología Convencional
+70;13;Departamento De Diagnostico Por Imagenes;1302;Servicio De Ultrasonografía
+71;13;Departamento De Diagnostico Por Imagenes;1303;Servicio De Radiología Intervencionista
+72;14;Departamento De Medicina De Rehabilitacion;1400;Departamento De Medicina De Rehabilitacion
+73;14;Departamento De Medicina De Rehabilitacion;1401;Servicio De Lesiones Neuromotoras/Desarrollo Psicomotor/Terapias Especializadas
+74;15;Departamento De Salud Mental;1500;Departamento De Salud Mental
+75;15;Departamento De Salud Mental;1501;Servicio De Psicología
+76;15;Departamento De Salud Mental;1502;Servicio De Psiquiatría
+77;16;Departamento De Nutricion Y Dietetica;1600;Departamento De Nutricion Y Dietetica
+78;16;Departamento De Nutricion Y Dietetica;1601;Servicio De Alimentación/Dietoterapia/Nutrición Integral
+79;17;Departamento De Servicio Social;1700;Departamento De Servicio Social
+80;18;Departamento De Farmacia;1800;Departamento De Farmacia
+81;18;Departamento De Farmacia;1801;Servicio De Farmacia/Farmacotecnia
+82;19;Departamento De Enfermeria;1900;Departamento De Enfermeria
+83;19;Departamento De Enfermeria;1901;Servicio De Enfermería De Consulta Externa
+84;19;Departamento De Enfermeria;1902;Servicio De Enfermería De Central De Esterilización

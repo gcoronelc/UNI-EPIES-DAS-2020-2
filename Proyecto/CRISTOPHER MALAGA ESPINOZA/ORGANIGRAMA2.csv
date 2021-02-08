@@ -1,0 +1,46 @@
+﻿IDAREA;DEP_OFI_COD;DEP_OFI_DESC;SERV_UNI_COD;SERV_UNI_DESC
+01;01;Departamento De Medicina Interna;0100;Departamento De Medicina
+02;01;Departamento De Medicina Interna;0101;Servicio De Medicina Interna I, Ii, Iv
+03;01;Departamento De Medicina Interna;0102;Servicio De Medicina Interna Iii
+04;02;Direccion General;0200;Direccion General
+44;07;Departamento De Pediatria;0700;Departamento De Pediatria
+45;07;Departamento De Pediatria;0701;Servicio De Pediatria
+46;07;Departamento De Pediatria;0702;Servicio De Neonatología
+47;08;Departamento De Gineco Obstetricia;0800;Departamento De Gineco Obstetricia
+48;08;Departamento De Gineco Obstetricia;0801;Servicio De Ginecología
+49;08;Departamento De Gineco Obstetricia;0802;Servicio De Obstetricia Médico Quirúrgico
+50;08;Departamento De Gineco Obstetricia;0803;Servicio De Obstetricia
+51;08;Departamento De Gineco Obstetricia;0804;Servicio De Reproducción Humana
+52;09;Departamento De Emergencia Y Cuidados Criticos;0900;Departamento De Emergencia Y Cuidados Criticos
+53;09;Departamento De Emergencia Y Cuidados Criticos;0901;Servicio De Emergencia/Trauma Shock
+54;09;Departamento De Emergencia Y Cuidados Criticos;0902;Servicio De Cuidados Intensivos
+55;09;Departamento De Emergencia Y Cuidados Criticos;0903;Servicio De Cuidados Intensivos Y Cuidados Intermedios Neonatales
+56;09;Departamento De Emergencia Y Cuidados Criticos;0904;Servicio De Cuidados Intensivos Pediátricos
+57;10;Departamento De Odontoestomatologia;1000;Departamento De Odontoestomatologia
+58;10;Departamento De Odontoestomatologia;1001;Servicio De Odontoestomatología Clínica
+59;10;Departamento De Odontoestomatologia;1002;Servicio De Cirugía Bucal Y Maxilo Facial
+60;11;Departamento De Anestesiología Y Centro Quirúrgico;1100;Departamento Anestesiología Y Centro Quirúrgico
+61;11;Departamento De Anestesiología Y Centro Quirúrgico;1101;Servicio De Anestesiologia Y Cq/Terapia Del Dolor /Servicio De Cirugía Ambulatoria
+62;11;Departamento De Anestesiología Y Centro Quirúrgico;1102;Servicio De Anestesiología Y Centro Quirúrgico/Recuperación Post Anestésica Y Reanimación
+63;12;Departamento De Patologia Clinica Y Anatomia Patologica;1200;Departamento De Patologia Clinica Y Anatomia Patologica
+64;12;Departamento De Patologia Clinica Y Anatomia Patologica;1201;Servicio De Bioquímica Y Hematología
+65;12;Departamento De Patologia Clinica Y Anatomia Patologica;1202;Servicio De Hemoterapia Y Banco De Sangre
+66;12;Departamento De Patologia Clinica Y Anatomia Patologica;1203;Servicio De Microbiología, Inmunología Y Biología Molecular
+67;12;Departamento De Patologia Clinica Y Anatomia Patologica;1204;Servicio De Anatomía Patológica
+68;13;Departamento De Diagnostico Por Imagenes;1300;Departamento De Diagnostico Por Imágenes
+69;13;Departamento De Diagnostico Por Imagenes;1301;Servicio De Radiología Convencional
+70;13;Departamento De Diagnostico Por Imagenes;1302;Servicio De Ultrasonografía
+71;13;Departamento De Diagnostico Por Imagenes;1303;Servicio De Radiología Intervencionista
+72;14;Departamento De Medicina De Rehabilitacion;1400;Departamento De Medicina De Rehabilitacion
+73;14;Departamento De Medicina De Rehabilitacion;1401;Servicio De Lesiones Neuromotoras/Desarrollo Psicomotor/Terapias Especializadas
+74;15;Departamento De Salud Mental;1500;Departamento De Salud Mental
+75;15;Departamento De Salud Mental;1501;Servicio De Psicología
+76;15;Departamento De Salud Mental;1502;Servicio De Psiquiatría
+77;16;Departamento De Nutricion Y Dietetica;1600;Departamento De Nutricion Y Dietetica
+78;16;Departamento De Nutricion Y Dietetica;1601;Servicio De Alimentación/Dietoterapia/Nutrición Integral
+79;17;Departamento De Servicio Social;1700;Departamento De Servicio Social
+80;18;Departamento De Farmacia;1800;Departamento De Farmacia
+81;18;Departamento De Farmacia;1801;Servicio De Farmacia/Farmacotecnia
+82;19;Departamento De Enfermeria;1900;Departamento De Enfermeria
+83;19;Departamento De Enfermeria;1901;Servicio De Enfermería De Consulta Externa
+84;19;Departamento De Enfermeria;1902;Servicio De Enfermería De Central De Esterilización
