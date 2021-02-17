@@ -1,0 +1,8 @@
+﻿
+REGISTRAR PEDIDO
+--------------------------
+- Cliente
+- Usuario
+- Producto
+- Cantidad
+- Tipo comprobante

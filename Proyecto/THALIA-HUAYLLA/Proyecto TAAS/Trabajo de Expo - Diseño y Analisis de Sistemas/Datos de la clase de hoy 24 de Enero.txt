@@ -1,0 +1,3 @@
+El Eclipse permite crear la aplicación y luego desplegar con el Apache 
+Adicionalmente hay otra aplicación llamada Browser (Puede ser Chrome) nos permitirá interactuar con las aplicaciones, existen varias formas de instalación de Apache
+Como sugerencia del .profe buscar aplicaciones web con Java
